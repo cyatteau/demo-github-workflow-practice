@@ -8,7 +8,7 @@
   - <!-- One sentence -->
 
 ## Before requesting review
-- [ ] I made a small, focused change (easy to review)
+- [ ] I made a small, focused change (under ~20 lines when possible)
 - [ ] I used a clear commit message
 - [ ] I updated docs/comments if the change affects usage
 - [ ] I added a screenshot or note if it affects UI (optional)
