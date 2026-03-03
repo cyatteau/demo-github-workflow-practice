@@ -10,3 +10,22 @@ body:
       placeholder: A clear, one-paragraph description.
     validations:
       required: true
+      
+  - type: textarea
+    attributes:
+      label: What did you expect?
+      description: Tell us what you expected to happen instead.
+      placeholder: Expected behavior...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Numbered steps are best.
+      placeholder: |
+        1. Go to...
+        2. Click...
+        3. See error...
+    validations:
+      required: true
